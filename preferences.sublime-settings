@@ -6,6 +6,10 @@
   "font_size": 14
 }
 
+[
+	{"keys": ["alt+shift+f"], "command": "reindent", "args": {"single_line": false}}
+]
+
 /*
 WEG
 {
